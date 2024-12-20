@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'poppins', sans-serif ;
     scroll-behavior: smooth;
-    transition: all 0.8s ease;
+    transition: all 0.5s ease;
 }
 
 .container{
@@ -46,18 +46,18 @@
     position: relative;
 }
 .blue-part > h3{
-    font-size: 2rem;
+    font-size: 1.3rem;
     margin: 5px;
-    top: 70px;
+    top: 30px;
 }
 .blue-part > p{
-    font-size: 1rem;
+    font-size: 0.7rem;
     margin: 5px;
-    top: 70px;
+    top: 30px;
 }
 
 .profile-pic{
-    top: 70px;
+    top: 40px;
     width: 90% ;
     padding: 5px;
     margin-bottom: 10px;
@@ -85,8 +85,8 @@
     display: flex;
     /* justify-content: center; */
     align-items: center;
-    height: 4rem;
-    width: 20rem;
+    height: 3rem;
+    width: 17rem;
     margin: 20px;
     border: none;
     /* background-color: #25b3ff58; */
@@ -106,9 +106,9 @@
 }
 
 .icons{
-    font-size: 30px;
-    margin-left: 30px;
-    margin-right: 20px;
+    font-size: 23px;
+    margin-left: 25px;
+    margin-right: 15px;
 
 }
 .fa-facebook{
